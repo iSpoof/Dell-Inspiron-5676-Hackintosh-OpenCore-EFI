@@ -4,7 +4,8 @@
 
 
 ## <b>My System Configuration</b>
-
+|	    |							|		 |						|
+|-----------|---------------------------------------------------|----------------|----------------------------------------------|
 | Processor | AMD Ryzen 7 2700 or 2700X (8-Cores, 16-Threads)	| Graphics       | AMD Radeon RX 580 (4GB - GDDR5) (Polaris 10)	|
 | Memory    | 32GB (2x16GB) DDR4 @ 2400MHz			| OS Disk        | Inland 240GB SSD				|
 | Audio     | Realtek ALC898					| WiFi/Bluetooth | Qualcomm Atheros QCA9377      		|
