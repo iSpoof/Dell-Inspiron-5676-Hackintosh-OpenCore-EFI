@@ -119,7 +119,7 @@
 >Open (Ctrl + O) then Clean Snapshot (Ctrl + Shift + R) if new ACPI (.aml), DRIVERS (.efi), or KEXTS (.kext) added.
 </details>
 
->The provided EFI/files were made for a Inspiron 5676 [v2] with AMD Ryzen 7 2700 or 2700X. If you have a different system configuration, you will need to modify the provided EFI/files accordingly.
+>The provided EFI was made for an Inspiron 5676 [v2] with AMD Ryzen 7 2700 or 2700X. If you have a different system configuration, you will need to modify the provided EFI accordingly.
 </details>
 
 ## Known Issues
