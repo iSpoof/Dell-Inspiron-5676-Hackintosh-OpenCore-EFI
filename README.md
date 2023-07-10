@@ -4,8 +4,8 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 ## 🖥️ My System Configuration
-<img align="right" src="https://avallax.com/wp-content/uploads/2019/11/Dell-Inspiron-5676_4.jpg" width="20%"></img>
-<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/Assets/Inspiron%205600%20-%20Back%20Background%20Removed.png?raw=true" width="50%"></img>
+<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/assets/Inspiron%205600%20-%20Back.png?raw=true" width="22%"></img>
+<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/assets/Inspiron%205600%20-%20Front.png?raw=true" width="22%"></img>
 
 | Type		| Name								|
 |---------------|---------------------------------------------------------------|
@@ -28,9 +28,9 @@
 | Inspiron 5675 [v2]	| AMD Ryzen 3 1200, AMD Ryzen 5 1400, AMD Ryzen 5 1600X, AMD Ryzen 7 1700X	| x6 USB 3.0, x1 Type-C 3.0, x4 USB 2.0, SD Reader, x2 PS2 (Mouse/Keyboard)	|
 | Inspiron 5676 [v1]	| AMD Ryzen 5 1400, AMD Ryzen 7 2700, AMD Ryzen 7 2700X				| x5 USB 3.0, x1 Type-C 3.0, x4 USB 2.0, x2 PS2 (Mouse/Keyboard)		|
 | Inspiron 5676 [v2]	| AMD Ryzen 5 1400, AMD Ryzen 7 2700, AMD Ryzen 7 2700X				| X6 USB 3.0, x4 USB 2.0, x2 PS2 (Mouse/Keyboard)				|
->Requires modifying EFI based on [Processor](https://github.com/AMD-OSX/AMD_Vanilla), [USB Ports](https://github.com/USBToolBox/tool).
+>Requires modifying EFI based on [Processor](https://github.com/AMD-OSX/AMD_Vanilla) & its [USB Ports](https://github.com/USBToolBox/tool).
 
->Inspiron 5675 [v1] removed due to APUs not being supported, but small chance USB Port configuration may have been used with Inspiron 5675 [v2], & Inspiron 5676 [v1] + [v2].
+>Inspiron 5675 [v1] removed due to APUs not being supported, but its USB Port configuration may have been used with Inspiron 5675 [v2], & Inspiron 5676 [v1] + [v2]. Check the [assets](/assets) to view possible configurations.
 
 ## BIOS Settings
 | Setting	| Status	|
@@ -128,6 +128,7 @@
 
 ## ⚠️ Known Issues
 * Unable to 'ShutDown' when on Windows after macOS was installed.
+  	- Possible user error.
 	- Attempting to shutdown the computer while on Windows takes me back to login screen, as if it 'Restarted' or 'Signed-Out'.
 	- Do note, power to computer did not stop (indicated by computers built-in lights).
 	- FIX: Go to 'Control Panel > Hardware and Sound > Power Options > System Settings > DISABLE 'Turn on fast startup'
