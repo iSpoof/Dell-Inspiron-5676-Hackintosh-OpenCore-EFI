@@ -5,6 +5,7 @@
 
 ## 🖥️ My System Configuration
 <img align="right" src="https://avallax.com/wp-content/uploads/2019/11/Dell-Inspiron-5676_4.jpg" width="20%"></img>
+<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/Assets/Inspiron%205600%20-%20Back%20Background%20Removed.png?raw=true" width="50%"></img>
 
 | Type		| Name								|
 |---------------|---------------------------------------------------------------|
