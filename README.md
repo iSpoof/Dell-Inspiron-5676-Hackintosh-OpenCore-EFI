@@ -4,8 +4,8 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 ## 🖥️ My System Configuration
-<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/assets/Inspiron%205600%20-%20Back.png?raw=true" width="22%"></img>
-<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/assets/Inspiron%205600%20-%20Front.png?raw=true" width="22%"></img>
+<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/assets/Inspiron%205600%20-%20Back.png?raw=true" width="15%"></img>
+<img align="right" src="https://github.com/iSpoof/Dell-Inspiron-5676-Hackintosh-OpenCore-EFI/blob/main/assets/Inspiron%205600%20-%20Front.png?raw=true" width="15%"></img>
 
 | Type		| Name								|
 |---------------|---------------------------------------------------------------|
