@@ -1,8 +1,11 @@
 # Dell Inspiron 5676 - Ryzentosh/Hackintosh
 
-<img src="https://avallax.com/wp-content/uploads/2019/11/Dell-Inspiron-5676_4.jpg" width="15%"></img>
+[![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 
-## <b>My System Configuration</b>
+## 🖥️ My System Configuration
+<img align="right" src="https://avallax.com/wp-content/uploads/2019/11/Dell-Inspiron-5676_4.jpg" width="20%"></img>
+
 | Type		| Name								|
 |---------------|---------------------------------------------------------------|
 | OpenCore	| [v0.9.3](https://github.com/acidanthera/OpenCorePkg/releases)	|
@@ -15,9 +18,9 @@
 | Audio		| Realtek ALC898						|
 | WiFi/Bluetooth| Qualcomm Atheros QCA9377					|
 | Network	| Realtek RTL8168/8111						|
-| Chipset	| X370 Series							|
+| Chipset	| X370 								|
 
-## <b>Compatible Dell Systems</b>
+## 🖥️ Compatible Dell Systems
 | Model			| Processor									| USB Ports (Front & Back)							|
 |-----------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | ~~Inspiron 5675 [v1]~~| ~~AMD A10-9700, AMD A12-9800~~						| x4 USB 3.0, x4 USB 2.0, SD Reader, x2 PS2 (Mouse/Keyboard)			|
@@ -122,7 +125,7 @@
 >The provided EFI was made for an Inspiron 5676 [v2] with AMD Ryzen 7 2700 or 2700X. If you have a different system configuration, you will need to modify the provided EFI accordingly.
 </details>
 
-## Known Issues
+## ⚠️ Known Issues
 * Unable to 'ShutDown' when on Windows after macOS was installed.
 	- Attempting to shutdown the computer while on Windows takes me back to login screen, as if it 'Restarted' or 'Signed-Out'.
 	- Do note, power to computer did not stop (indicated by computers built-in lights).
